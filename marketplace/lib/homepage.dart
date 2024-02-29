@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:marketplace/detail.dart';
-import 'package:marketplace/login.dart';
+import 'package:marketplace/det.dart';
+import 'package:marketplace/view/Register/login.dart';
 import 'package:marketplace/product.dart';
 
 class homepage extends StatefulWidget {

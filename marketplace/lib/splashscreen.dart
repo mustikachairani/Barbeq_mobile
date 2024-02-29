@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:marketplace/homepage.dart';
 import 'dart:async';
 
-import 'package:marketplace/login.dart';
+import 'package:marketplace/view/Register/login.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
