@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:marketplace/det.dart';
-import 'package:marketplace/view/Register/login.dart';
-import 'package:marketplace/product.dart';
+import 'package:marketplace/view/Detail/detail.dart';
+import 'package:marketplace/view/Login/login.dart';
+import 'package:marketplace/model/product.dart';
 
 class homepage extends StatefulWidget {
   const homepage({Key? key}) : super(key: key);

@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 // ignore: unused_import
-import 'package:marketplace/homepage.dart';
+import 'package:marketplace/view/HomePage/homepage.dart';
 import 'dart:async';
 
-import 'package:marketplace/view/Register/login.dart';
+import 'package:marketplace/view/Login/login.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
