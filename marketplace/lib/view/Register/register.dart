@@ -178,7 +178,7 @@ class HalamanDaftar extends StatelessWidget {
                     child: Text(
                       'Sign Up',
                       style:
-                          TextStyle(fontWeight: FontWeight.w500, fontSize: 17),
+                          TextStyle(fontWeight: FontWeight.w500, fontSize: 17,color: Colors.white),
                     ),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Color(0xFFB50B0B),
