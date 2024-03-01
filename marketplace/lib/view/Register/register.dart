@@ -181,7 +181,7 @@ class HalamanDaftar extends StatelessWidget {
                           TextStyle(fontWeight: FontWeight.w500, fontSize: 17),
                     ),
                     style: ElevatedButton.styleFrom(
-                      primary: Color(0xFFB50B0B),
+                      backgroundColor: Color(0xFFB50B0B),
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(
                             10.0), // Sesuaikan nilai radius sesuai keinginan
